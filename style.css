@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(15, 144, 144);
+}
+div{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
